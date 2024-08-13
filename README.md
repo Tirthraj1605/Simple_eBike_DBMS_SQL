@@ -30,7 +30,7 @@ This readme file provides step-by-step instructions to set up and run two differ
 
 5. **Download the Source Code:**
    - Clone or download the source code for **eBike_with_streamlit** from the project's repository.
-   - [Download from here](https://github.com/Bhagyashree-hegde2001/DBMS_Accessing_sql_from_python)
+   - [Download from here](https://github.com/Tirthraj1605/Simple_eBike_DBMS_SQL)
 
 6. **Configuring Code and schema:**
    - Set your mysql password and username in database.py file.
