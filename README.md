@@ -65,7 +65,7 @@ This readme file provides step-by-step instructions to set up and run two differ
 
 4. **Download the Source Code:**
    - Clone or download the source code for **Simple_eBike** from the project's repository.
-   - [Download from here](https://github.com/Bhagyashree-hegde2001/DBMS_Accessing_sql_from_python)
+   - [Download from here](https://github.com/Tirthraj1605/Simple_eBike_DBMS_SQL)
 
 5. **Configuring Code and schema:**
    - Set your mysql password and username in database.py file.
